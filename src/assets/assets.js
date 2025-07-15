@@ -1,11 +1,3 @@
-export const heroImages = {
-  heroOne: new URL('./hero_one.jpg', import.meta.url).href,
-  heroTwo: new URL('./hero_two.jpg', import.meta.url).href,
-  heroThree: new URL('./hero_three.jpg', import.meta.url).href,
-  heroFour: new URL('./hero_four.jpg', import.meta.url).href
-};
-
-
 
 export const productImages = {
   amazonLogo: new URL('./amazon_logo.png', import.meta.url).href,
